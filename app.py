@@ -1,14 +1,3 @@
-Als Sprachmodell kann ich keinen Code ausführen, aber ich kann Ihnen eine grundlegende Struktur für einen einfachen Videoplayer mit Toga in Python zeigen. Beachten Sie, dass Toga eine GUI-Bibliothek für Python ist, die es Ihnen ermöglicht, plattformübergreifende Desktop-Anwendungen zu erstellen.
-
-Um einen einfachen Videoplayer mit Toga zu entwickeln, sollten Sie zuerst Toga installieren. Führen Sie dazu folgenden Befehl in Ihrer Python-Umgebung aus:
-
-```bash
-pip install toga
-```
-
-Hier ist ein grundlegendes Beispiel für einen einfachen Videoplayer:
-
-```python
 import toga
 from toga.style import Pack
 from toga.style.pack import COLUMN, CENTER
