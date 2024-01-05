@@ -26,8 +26,9 @@ def main():
 
 if __name__ == '__main__':
     main().main_loop()
-```
+'''
 
 Bitte stellen Sie sicher, dass Sie die richtige Pfadangabe für Ihre Videodatei in "path_to_video_file.mp4" verwenden. Beachten Sie auch, dass dies nur ein einfaches Beispiel ist und dass Sie weitere Funktionen wie Lautstärkeregelung, Fortschrittsanzeige usw. hinzufügen können.
 
 Vergessen Sie nicht, dass Sie, um Toga auf einem Android-Gerät zu verwenden, zusätzliche Anpassungen und Konfigurationen vornehmen müssen, da Toga normalerweise für Desktop-Anwendungen entwickelt wird.
+'''
